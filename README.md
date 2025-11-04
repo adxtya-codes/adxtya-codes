@@ -6,7 +6,7 @@
 
 ## 🚀 About Me:
 - 🔭 Currently building **Brainrot Clothing** and **Aerogramme Site**
-- 🧠 Exploring **AI Models**, **Discord/WhatsApp Bots**, and **Full-Stack Web Development**
+- 🧠 Exploring **AI Models**, **Full-Stack Web Development** and **Discord/WhatsApp Bots**
 - 💬 Ask me about **JavaScript, Node.js, React, Supabase, and Automation**
 - 📫 Reach me at: **singh.aditya8213@gmail.com**
 - 🌐 Portfolio: [adxtya-codes](https://github.com/adxtya-codes)
@@ -106,4 +106,4 @@
 ---
 
 ## 🧠 Fun Fact:
-> “Code never lies, comments sometimes do.”
+> “I ALWAYS GET THE WORK DONE”
