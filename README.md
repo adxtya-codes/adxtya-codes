@@ -1,89 +1,116 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center" style="font-size: 3em;">👋 Hey there, I'm <strong>Aditya Singh</strong></h1>
+<h3 align="center" style="font-size: 1.5em;">💻 A passionate developer from India 🇮🇳</h3>
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently building **Brainrot Clothing and Aerogramme Site**
-- 🌱 I’m currently learning and working on Websites, AI Models, Discord/Whatsapp Bots **
-- 💬 Ask me about **JavaScript, Node.js, React, and WhatsApp bots**
+## 🚀 About Me:
+- 🔭 Currently building **Brainrot Clothing** and **Aerogramme Site**
+- 🧠 Exploring **AI Models**, **Discord/WhatsApp Bots**, and **Full-Stack Web Development**
+- 💬 Ask me about **JavaScript, Node.js, React, Supabase, and Automation**
 - 📫 Reach me at: **singh.aditya8213@gmail.com**
-- 🌐 Portfolio: [adxtya-codes](github.com/adxtya-codes)
+- 🌐 Portfolio: [adxtya-codes](https://github.com/adxtya-codes)
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adxtya) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adxtya)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adxtya)
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-singh-41a895349/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adxtya-codes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:singh.aditya8213@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/adxtya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/adxtya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
-#### 🧠 Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=fff)
-
-#### ⚙️ Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=fff)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
-![tRPC](https://img.shields.io/badge/-tRPC-2596BE?logo=trpc&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-404D59?logo=express&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)
-
-#### 🧩 Tools & Platforms:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000)
+### 🧠 Languages:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=adxtya-codes&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adxtya-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ⚙️ Frameworks & Libraries:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
+</p>
 
 ---
 
-### 🏆 Achievements:
-![](https://github-profile-trophy.vercel.app/?username=adxtya-codes&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+### 🧩 Tools & Platforms:
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000"/>
+</p>
 
 ---
 
-### 🧠 Fun Fact:
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adxtya-codes&theme=tokyonight&hide_border=false" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxtya-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em"/>
+</p>
+
+---
+
+## 🏆 Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adxtya-codes&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 🧠 Fun Fact:
 > “Code never lies, comments sometimes do.”
-
