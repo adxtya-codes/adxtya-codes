@@ -93,20 +93,5 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adxtya-codes&theme=tokyonight&hide_border=false" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxtya-codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em"/>
-</p>
-
----
-
-## 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adxtya-codes&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
 ## 🧠 Fun Fact:
 > “I ALWAYS GET THE WORK DONE”
