@@ -22,11 +22,14 @@
   <a href="https://github.com/adxtya-codes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:singh.aditya8213@gmail.com">
+  <a href="mailto:singh.aditya8213@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/adxxxtya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
 </p>
 
----
 
 ## 💻 Tech Stack:
 
