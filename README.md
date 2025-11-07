@@ -9,7 +9,7 @@
 - 🧠 Exploring **AI Models**, **Full-Stack Web Development** and **Discord/WhatsApp Bots**
 - 💬 Ask me about **JavaScript, Node.js, React, Supabase, and Automation**
 - 📫 Reach me at: **singh.aditya8213@gmail.com**
-- 🌐 Portfolio: [adxtya-codes](https://github.com/adxtya-codes)
+- 🌐 Portfolio: [adxtya.app](https://adxtya.vercel.app/)
 
 ---
 
